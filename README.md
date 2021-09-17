@@ -7,5 +7,5 @@ aaaaaaaaaaaaa
 **ua**
 *u*
 1. duuupa
-  2.duuuuupa
+  - duuuuupa
 1. nie
