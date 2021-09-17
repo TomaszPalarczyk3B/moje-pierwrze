@@ -1,8 +1,8 @@
 # moje-pierwrze
 moje pierwrze
-#uauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauUAUAUAUUAUAUAAUAUAUAUAUAUAUUAUAUA
+# uauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauauUAUAUAUUAUAUAAUAUAUAUAUAUAUUAUAUA
 uuuuuuuuuuuuuuuu
 aaaaaaaaaaaaa
-##uaua
+## uaua
 **ua**
 *u*
